@@ -1,0 +1,17 @@
+{
+	"name": "KillAnonSession",
+	"version": "1.0.0",
+	"author": [
+		"wSedlacek",
+		"Becasita"
+	],
+	"url": "https://github.com/BernardoFuret/KillAnonSession-mw-extension",
+	"type": "skin",
+	"AutoloadClasses": {
+		"KillAnonSession": "KillAnonSession.php"
+	},
+	"Hooks": {
+		"BeforePageDisplay": "KillAnonSession::onBeforePageDisplay"
+	},
+	"manifest_version": 2
+}
