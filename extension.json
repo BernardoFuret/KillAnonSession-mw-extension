@@ -6,7 +6,7 @@
 		"Becasita"
 	],
 	"url": "https://github.com/BernardoFuret/KillAnonSession-mw-extension",
-	"type": "skin",
+	"type": "other",
 	"AutoloadClasses": {
 		"KillAnonSession": "KillAnonSession.php"
 	},
